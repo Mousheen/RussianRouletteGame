@@ -1,0 +1,24 @@
+D:\Software Engineering & Development\Assessment 1\RussionRouletteGame\RussionRouletteGame\bin\Debug\RussionRouletteGame.exe.config
+D:\Software Engineering & Development\Assessment 1\RussionRouletteGame\RussionRouletteGame\bin\Debug\RussionRouletteGame.exe
+D:\Software Engineering & Development\Assessment 1\RussionRouletteGame\RussionRouletteGame\bin\Debug\RussionRouletteGame.pdb
+D:\Software Engineering & Development\Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.csprojResolveAssemblyReference.cache
+D:\Software Engineering & Development\Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.Properties.Resources.resources
+D:\Software Engineering & Development\Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.csproj.GenerateResource.Cache
+D:\Software Engineering & Development\Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.exe
+D:\Software Engineering & Development\Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.pdb
+D:\Software Engineering & Development\Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.PlayerProfile.resources
+D:\Software Engineering & Development\Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.StartScreen.resources
+D:\Software Engineering & Development\Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.MainGame.resources
+D:\Software Engineering & Development\Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.HighScores.resources
+C:\Users\Nadia Al-Shakarchi\Documents\Mousheen - Assessment 1\Mousheen - Assessment 1\RussionRouletteGame\RussionRouletteGame\bin\Debug\RussionRouletteGame.exe.config
+C:\Users\Nadia Al-Shakarchi\Documents\Mousheen - Assessment 1\Mousheen - Assessment 1\RussionRouletteGame\RussionRouletteGame\bin\Debug\RussionRouletteGame.exe
+C:\Users\Nadia Al-Shakarchi\Documents\Mousheen - Assessment 1\Mousheen - Assessment 1\RussionRouletteGame\RussionRouletteGame\bin\Debug\RussionRouletteGame.pdb
+C:\Users\Nadia Al-Shakarchi\Documents\Mousheen - Assessment 1\Mousheen - Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.csprojResolveAssemblyReference.cache
+C:\Users\Nadia Al-Shakarchi\Documents\Mousheen - Assessment 1\Mousheen - Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.HighScores.resources
+C:\Users\Nadia Al-Shakarchi\Documents\Mousheen - Assessment 1\Mousheen - Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.MainGame.resources
+C:\Users\Nadia Al-Shakarchi\Documents\Mousheen - Assessment 1\Mousheen - Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.PlayerProfile.resources
+C:\Users\Nadia Al-Shakarchi\Documents\Mousheen - Assessment 1\Mousheen - Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.StartScreen.resources
+C:\Users\Nadia Al-Shakarchi\Documents\Mousheen - Assessment 1\Mousheen - Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.Properties.Resources.resources
+C:\Users\Nadia Al-Shakarchi\Documents\Mousheen - Assessment 1\Mousheen - Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.csproj.GenerateResource.Cache
+C:\Users\Nadia Al-Shakarchi\Documents\Mousheen - Assessment 1\Mousheen - Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.exe
+C:\Users\Nadia Al-Shakarchi\Documents\Mousheen - Assessment 1\Mousheen - Assessment 1\RussionRouletteGame\RussionRouletteGame\obj\Debug\RussionRouletteGame.pdb
